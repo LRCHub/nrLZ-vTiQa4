@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "灯火",
+  "base_artist": "Vaundy",
+  "createdAt": "2026-02-10T15:25:38.793878Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_灯火_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/02_灯火_syudou.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "syudou feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/03_灯火_syudou_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "DADARAY",
+      "has_synced": true,
+      "path": "select/04_灯火_DADARAY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_灯火_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "灯火 - Tomoshibi",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_灯火_-_Tomoshibi_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "Half time Old",
+      "has_synced": false,
+      "path": "select/07_灯火_Half_time_Old.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "灯火 - Tomoshibi",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/08_灯火_-_Tomoshibi_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "Yuga",
+      "has_synced": true,
+      "path": "select/09_灯火_Yuga.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "Yuga",
+      "has_synced": false,
+      "path": "select/10_灯火_Yuga.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "灯火 - Sea of light",
+      "artist": "Yuga",
+      "has_synced": true,
+      "path": "select/11_灯火_-_Sea_of_light_Yuga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "FLOWER FLOWER",
+      "has_synced": true,
+      "path": "select/12_灯火_FLOWER_FLOWER.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "TFBOYS",
+      "has_synced": true,
+      "path": "select/13_灯火_TFBOYS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "Plastic Tree",
+      "has_synced": true,
+      "path": "select/14_灯火_Plastic_Tree.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "灯火",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/15_灯火_DUSTCELL.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "灯火",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_灯火_Vaundy.txt"
+    }
+  ]
+}
